@@ -1,0 +1,147 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "winres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// 한국어(대한민국) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_KOR)
+LANGUAGE LANG_KOREAN, SUBLANG_DEFAULT
+#pragma code_page(949)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""winres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_BACKGROUND          BITMAP                  "bg.bmp"
+
+IDB_FIGHTER             BITMAP                  "fighter.bmp"
+
+IDB_SHOTOVAL            BITMAP                  "shotoval.bmp"
+
+IDB_PLAYER              BITMAP                  "player.bmp"
+
+IDB_LIFE                BITMAP                  "life.bmp"
+
+IDB_HUD                 BITMAP                  "hud.bmp"
+
+IDB_BOARDER             BITMAP                  "boarder.bmp"
+
+IDB_BOOM1               BITMAP                  "boom01.bmp"
+
+IDB_BOOM2               BITMAP                  "boom02.bmp"
+
+IDB_BOOM3               BITMAP                  "boom03.bmp"
+
+IDB_BOOM4               BITMAP                  "boom04.bmp"
+
+IDB_BOOM5               BITMAP                  "boom05.bmp"
+
+IDB_BOOM6               BITMAP                  "boom06.bmp"
+
+IDB_BOOM7               BITMAP                  "boom07.bmp"
+
+IDB_BOOM8               BITMAP                  "boom08.bmp"
+
+IDB_BOOM9               BITMAP                  "boom09.bmp"
+
+IDB_BOOM10              BITMAP                  "boom10.bmp"
+
+IDB_BOOM11              BITMAP                  "boom11.bmp"
+
+IDB_BOSS                BITMAP                  "boss.bmp"
+
+IDB_FLAME1              BITMAP                  "flame01.bmp"
+
+IDB_FLAME2              BITMAP                  "flame02.bmp"
+
+IDB_FLAME3              BITMAP                  "flame03.bmp"
+
+IDB_FLAME4              BITMAP                  "flame04.bmp"
+
+IDB_FLAME5              BITMAP                  "flame05.bmp"
+
+IDB_FLAME6              BITMAP                  "flame06.bmp"
+
+IDB_GAMEOVER            BITMAP                  "gameOver.bmp"
+
+IDB_NUM0                BITMAP                  "num0.bmp"
+
+IDB_NUM1                BITMAP                  "num1.bmp"
+
+IDB_NUM2                BITMAP                  "num2.bmp"
+
+IDB_NUM3                BITMAP                  "num3.bmp"
+
+IDB_NUM4                BITMAP                  "num4.bmp"
+
+IDB_NUM5                BITMAP                  "num5.bmp"
+
+IDB_NUM6                BITMAP                  "num6.bmp"
+
+IDB_NUM7                BITMAP                  "num7.bmp"
+
+IDB_NUM8                BITMAP                  "num8.bmp"
+
+IDB_NUM9                BITMAP                  "num9.bmp"
+
+IDB_PRESSHERETOSTART    BITMAP                  "pressHereToStart.bmp"
+
+IDB_TITLE               BITMAP                  "title.bmp"
+
+IDB_SHOT                BITMAP                  "shot.bmp"
+
+IDB_HPBAR               BITMAP                  "hpbar.bmp"
+
+#endif    // 한국어(대한민국) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
